@@ -1,6 +1,6 @@
 # Flippy fun - Juego Web
 
-**Flippy fun** es mi propuesta individual para un juego web indie básico y minimalista en puro JavaScript** Flippy fun: controla un pez que vuela entre tuberías. ¡Sobrevive, suma puntos y bate tu record!
+**Flippy fun** es mi propuesta individual para un juego web indie básico y minimalista en puro JavaScript** Flippy fun: controla un pez que vuela entre tuberías. para mi es un juego poco aditictivo porque cada vez quieres batir tu propia marca
 
 ## Link del juego
 https://albertorico97.github.io/flippyfun.github.io/
